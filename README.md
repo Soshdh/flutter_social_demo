@@ -54,8 +54,10 @@ icons/
 1. Clone the repo  
    ```bash
    git clone https://github.com/Soshdh/flutter_social_demo.git
-cd flutter_social_demo
-flutter run
+
+ cd flutter_social_demo
+ 
+ flutter run
 
 
 📌 Notes
