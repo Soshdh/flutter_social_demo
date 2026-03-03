@@ -59,10 +59,7 @@ icons/
  
  flutter run
 
-
-
-
-
+---
 
 📌 Notes
 This project is not just a codebase but a portfolio statement. It reflects the ability to build scalable, user-friendly apps with Flutter, Firebase, and clean architecture. Recruiters can see both technical depth and design thinking in action, making it a strong showcase for job applications.
