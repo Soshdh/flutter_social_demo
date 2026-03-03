@@ -34,3 +34,15 @@ Future updates will include:
 ---
 
 ## 📂 Project Structure
+lib/
+main.dart
+ui/
+feed_page.dart
+profile_page.dart
+bloc/
+feed_bloc.dart
+repo/
+user_repo.dart
+assets/
+images/
+icons/
